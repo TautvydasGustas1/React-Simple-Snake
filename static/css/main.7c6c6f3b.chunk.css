@@ -1,0 +1,2 @@
+.game-container{position:relative;border:2px solid grey;width:600px;height:600px;margin:50px auto;background-color:#f5f5f5}.snake-dot{background-color:#000;z-index:2}.food,.snake-dot{position:absolute;width:2%;height:2%;border:1px solid #fff}.food{background-color:red;z-index:1}body{overflow:hidden}.App{height:100vh;display:flex;align-items:center;min-height:650px}
+/*# sourceMappingURL=main.7c6c6f3b.chunk.css.map */
