@@ -1,4 +1,5 @@
 ## Simple snake game made with React
+### Link to game - https://tautvydasgustas1.github.io/React-Simple-Snake/
 
 ### To run a program on local machine `npm start`
 
