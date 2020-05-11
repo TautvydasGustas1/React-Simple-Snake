@@ -1,4 +1,4 @@
-### Simple snake game made with React
+## Simple snake game made with React
 
 ### To run a program on local machine `npm start`
 
